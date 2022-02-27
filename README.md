@@ -2,6 +2,8 @@
 
 ## Books
 
+[Statistical Consequences of Fat Tails](https://www.amazon.fr/Statistical-Consequences-Fat-Tails-Preasymptotics/dp/1544508050)
+
 [Game Theory: An Introduction](https://www.amazon.fr/gp/product/B00AYL194G)
 
 [Reinforcement Learning, second edition: An Introduction](https://www.amazon.fr/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249)
@@ -19,6 +21,8 @@
 [Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning](https://www.amazon.fr/gp/product/B07N17TMFH)
 
 [Deep Learning (Ian Goodfellow, Yoshua Bengio, Aaron Courville)](https://www.amazon.fr/gp/product/B01MRVFGX4)
+
+[Pattern Recognition and Maching Learning](https://www.amazon.fr/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738/)
 
 [Learning from Data](https://www.amazon.fr/gp/product/B0759M2D9H)
 
@@ -55,6 +59,8 @@
 [Refactoring: Improving the Design of Existing Code](https://www.amazon.fr/gp/product/B007WTFWJ6)
 
 [Elements of Programming (Stepanov)](https://www.amazon.fr/gp/product/B0054KOKES)
+
+[Introduction to Algorithms (3rd Edition)](https://www.amazon.fr/Introduction-Algorithms-3e-Thomas-Cormen/dp/0262033844)
 
 [The Algorithm Design Manual (2nd Edition)](https://www.amazon.fr/gp/product/B00B8139Z8)
 
