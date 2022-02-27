@@ -50,6 +50,8 @@
 
 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.fr/gp/product/B001GSTOAM)
 
+[Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
+
 [Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming](https://www.amazon.fr/gp/product/B00DWJ1BIG)
 
 [Professional Clojure](https://www.amazon.fr/gp/product/B01G7S4SGK)
